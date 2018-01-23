@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RoomProject</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="empty_not_saved">Leer: wurde nicht gesichert</string>
+</resources>
